@@ -2,6 +2,7 @@
 header {
   background-color: lightsteelblue;
   padding: 50px;
+  margin: 0px;
   text-align: center;
   font-color: midnightblue;
 }
@@ -12,10 +13,6 @@ body {
   font-size: 14pt;
   margin: 0px;
   padding: 75px;
-}
-
-h1 {
-  font-family: serif;
 }
 
 blockquote {
