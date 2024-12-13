@@ -2,8 +2,6 @@
 header {
   background-color: lightsteelblue;
   padding: 50px;
-
-  font-weight: bold;
   text-align: center;
   font-color: midnightblue;
 }
@@ -13,7 +11,7 @@ body {
   font-family: sans-serif;
   font-size: 14pt;
   margin: 0px;
-   padding: 75px;
+  padding: 75px;
 }
 
 h1 {
@@ -22,11 +20,4 @@ h1 {
 
 blockquote {
   background-color: lightgrey;
-}
- 
-footer {
-  background-color: steelblue;
-  font-color: aliceblue;
-  padding: 30px;
-  text-align: center;
 }
