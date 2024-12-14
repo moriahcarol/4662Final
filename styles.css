@@ -18,7 +18,7 @@ nav {
 
 nav ul {
   list-style-type: none;
-  padding: 0px;
+  text-align: center;
 }
 
 section:after {
@@ -32,13 +32,6 @@ footer {
   padding: 10px;
   text-align: center;
   color: ghostwhite;
-}
-
-@media (max-width: 600px) {
-  nav, article {
-    width: 100%;
-    height: auto;
-  }
 }
 
 body {
