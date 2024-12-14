@@ -1,6 +1,6 @@
 
 header {
-  background-color: lightsteelblue;
+  background-color: lightskyblue;
   padding: 50px;
   text-align: center;
   font-color: midnightblue;
@@ -15,5 +15,5 @@ body {
 }
 
 blockquote {
-  background-color: GhostWhite;
+  font-style: italic;
 }
