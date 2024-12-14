@@ -45,29 +45,20 @@ img {
 }
 
 .button1 {
-    background-color: #f2d8e3;
-    color: #a559a5;
-    border-radius: 10px;
-    padding: 10px 20px;
-    font-family: "Cookie", cursive; 
-    cursor: pointer;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    background-color: lightskyblue;
+    color: ghostwhite;
+    border-radius: 5px;
+    padding: 10px;
 }
 .button2 {
-    background-color: #f2d8e3;
-    color: #a559a5;
-    border-radius: 10px;
-    padding: 10px 20px;
-    font-family: "Cookie", cursive; 
-    cursor: pointer;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    background-color: lightskyblue;
+    color: ghostwhite;
+    border-radius: 5px;
+    padding: 10px;
 }
 .button3 {
-    background-color: #f2d8e3;
-    color: #a559a5;
-    border-radius: 10px;
-    padding: 10px 20px;
-    font-family: "Cookie", cursive; 
-    cursor: pointer;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    background-color: lightskyblue;
+    color: ghostwhite;
+    border-radius: 5px;
+    padding: 10px;
 }
