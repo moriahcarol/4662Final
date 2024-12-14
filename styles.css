@@ -17,3 +17,11 @@ body {
 blockquote {
   font-style: italic;
 }
+
+img {
+  display: block;
+  margin: auto;
+  border-radius: 8px;
+  max-width: 100%;
+  border: 1px solid white;
+}
