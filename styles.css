@@ -43,7 +43,7 @@ body {
 
 blockquote {
   font-family: "Montserrat-Italic"
-    Montserrat/Montserrat-Italic-VariableFont_wght.ttf;
+   src: url("Montserrat/Montserrat-Italic-VariableFont_wght.ttf");
 }
 
 img {
