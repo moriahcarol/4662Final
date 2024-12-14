@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  margin: 0px;
 }
 
 header {
@@ -19,7 +20,7 @@ nav {
 
 nav ul {
   list-style-type: none;
-  padding: 0;
+  padding: 0px;
 }
 
 article {
