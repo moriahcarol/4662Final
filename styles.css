@@ -1,7 +1,8 @@
 
 header {
   background-color: lightskyblue;
-  padding: 50px;
+  padding: 25px;
+  margin: 0;
   text-align: center;
   font-color: midnightblue;
 }
@@ -21,7 +22,8 @@ blockquote {
 img {
   display: block;
   margin: auto;
+  padding: 25px;
   border-radius: 8px;
   max-width: 50%;
-  border: 1px solid white;
+  border: 1px aliceblue;
 }
