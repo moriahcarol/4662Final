@@ -1,13 +1,17 @@
 @font-face {
 	font-family: "Montserrat";
 	src: url("Montserrat/Montserrat-VariableFont_wght.ttf");
+	 font-family: "Montserrat-Italic"
+  	 src: url("Montserrat/Montserrat-Italic-VariableFont_wght.ttf");
 }
-p {
-        font-family: "Montserrat";
+p {font-family: "Montserrat";
     }
+blockquote {font-family: "Montserrat-Italic"
+}
 
 header {
   background-color: lightskyblue;
+  padding: 30px;
   text-align: center;
   font-size: 35px;
   line-height: 1;
@@ -38,11 +42,6 @@ body {
   padding: 100px;
   max-width:700px;
   margin:3em auto;
-}
-
-blockquote {
-  font-family: "Montserrat-Italic"
-   src: url("Montserrat/Montserrat-Italic-VariableFont_wght.ttf");
 }
 
 img {
