@@ -3,8 +3,8 @@ header {
   background-color: lightskyblue;
   padding: 25px;
   margin: 0;
+  border-radius: 8px;
   text-align: center;
-  font-color: midnightblue;
 }
 
 body {
@@ -22,7 +22,6 @@ blockquote {
 img {
   display: block;
   margin: auto;
-  padding: 25px;
   border-radius: 8px;
   max-width: 50%;
   border: 1px aliceblue;
